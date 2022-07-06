@@ -1,4 +1,4 @@
-- Hi, I’m @AsmanHud
+- Hi, I’m Asman!
 - I’m interested in programming and stuff
 - I’m currently learning full-stack engineering
 - I’m looking to collaborate on front-end projects 
