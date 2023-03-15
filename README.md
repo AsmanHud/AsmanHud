@@ -1,8 +1,8 @@
 - Hi, I’m Asman!
 - I’m interested in programming and stuff
-- I’m currently learning full-stack engineering
-- I’m looking to collaborate on front-end projects 
-- How to reach me - telegram: t.me/tutsogly
+- I’m currently learning ML/AI development on Python!
+- I’m looking to collaborate on ML/AI projects
+- How to reach me - telegram: t.me/tutsogly, gmail: asman.hudaykulyyev@gmail.com
 
 
 <!---
