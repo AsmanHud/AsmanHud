@@ -1,7 +1,7 @@
 # Asman
 > **Work hard**
 
-![Cat GIF](https://media1.tenor.com/m/ddxM47i8WXkAAAAd/cat-drinking-cat-drinking-water.gif)
+![Cat GIF](https://github.com/AsmanHud/AsmanHud/blob/main/cat-drinking-cat-drinking-water.gif)
 
 Hello! I’m Asman from Turkmenistan, currently a 4th-year Computer Engineering student at Vilnius Tech. I also work at Huawei R&D Health Lab in Finland as a Sports Science Intern, and I’m building an HR ASSISTANT startup to help recruiters streamline their workflow.
 
@@ -9,7 +9,7 @@ Hello! I’m Asman from Turkmenistan, currently a 4th-year Computer Engineering 
 
 ## About Me
 - **Solving real-world problems** is my main focus.
-- **Tech Stack**: Python, C/C++, React + JS/TS, ChatGPT, Perplexity.
+- **Tech Stack**: Python, C/C++, React + JS/TS, ChatGPT, Perplexity 😉.
 - **Goal**: Build a successful tech startup.
 - **Open to collaboration** on any meaningful project.
 
