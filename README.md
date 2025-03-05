@@ -3,7 +3,7 @@
 
 ![Cat GIF](https://github.com/AsmanHud/AsmanHud/blob/main/cat-drinking-cat-drinking-water.gif)
 
-Hello! I’m Asman from Turkmenistan, currently a 4th-year Computer Engineering student at Vilnius Tech. I also work at Huawei R&D Health Lab in Finland as a Sports Science Intern, and I’m building an HR ASSISTANT startup to help recruiters streamline their workflow.
+Hello! I’m Asman from Turkmenistan, currently a 4th-year Computer Engineering student at Vilnius Tech. I also work at Huawei R&D Health Lab in Finland as a Sports Science Intern, and I’m building HR ASSISTANT - world's first AI-agent to simplify recruiting.
 
 ---
 
