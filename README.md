@@ -2,8 +2,6 @@ hey! glad to see you here :)
 
 my name is Asman, and I am from Turkmenistan
 
-my current goal: get the first genuine money from my own project
-
 my links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/asman-hudaykulyyev/)
